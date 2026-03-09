@@ -1,0 +1,43 @@
+question,response,faithfulness_judgment
+What is the Thief's Open Locks ability score at level 8?,"At level 8, the Thief's Open Locks ability score is 60. This information is found in the Thief Abilities table in the document, under the column for Open Locks, corresponding to level 8.",YES
+How does the Thief's Move Silently ability progress from level 1 to level 15?,"Based on the provided document, the Thief's ""Move Silently"" ability progresses as follows from level 1 to level 15:
+
+- Level 1: 25
+- Level 2: 30
+- Level 3: 35
+- Level 4: 40
+- Level 5: 45
+- Level 6: 50
+- Level 7: 55
+- Level 8: 60
+- Level 9: 65
+- Level 10: 68
+- Level 11: 71
+- Level 12: 74
+- Level 13: 77
+- Level 14: 80
+- Level 15: 83
+
+The ability increases incrementally as the Thief levels up, improving the Thief's capacity to move without being detected.",YES
+"Can a GM adjust the Thief's ability scores, and for what reason?","Yes, a Game Master (GM) can adjust a Thief's ability scores in certain situations. The document specifies that the GM may apply situational adjustments, which can either be positive or negative percentage points, to reflect the difficulty of particular actions under specific conditions. For example, climbing a slimy wall is more challenging than climbing a dry one, so the GM might penalize the roll by applying a 20% penalty to the climber's ability score in this scenario. These adjustments help maintain a sense of realism and uncertainty, enhancing the game experience by dynamically altering difficulty based on the situation. The GM also has the discretion to make any of these rolls on behalf of the player to sustain this atmosphere.",YES
+Why might a GM apply a situational adjustment when a Thief is climbing a wall?,"A Game Master (GM) might apply a situational adjustment when a Thief is climbing a wall to account for the specific conditions that could make the task more difficult or easier. According to the document, the GM can apply situational adjustments using percentage points to reflect the environmental or situational factors that affect the Thief's ability to climb. For instance, if a wall is ""slick with slime,"" it would be more challenging for the Thief to maintain a grip and climb effectively, and thus the GM might implement a penalty, such as a 20% adjustment, to represent this increased difficulty. Conversely, if the wall has ledges or rough surfaces that provide extra grip, the GM might consider applying a positive adjustment to reflect these advantageous conditions. These adjustments help to maintain uncertainty and realism in the game, ensuring that the environment's impact is considered in the Thief's actions.",YES
+What is the Thief's Climb Walls ability score at level 17?,"At level 17, the Thief's Climb Walls ability score is 96. This can be found in the Thief Abilities table under the ""Climb Walls"" column for level 17.",YES
+"If a Thief is level 10, what is their Pick Pockets ability score?","If a Thief is level 10, their Pick Pockets ability score is 74. According to the provided table, this score is determined by looking under the ""Pick Pockets"" column for level 10.",YES
+What does a Thief gain when they advance from level 3 to level 4?,"When a Thief advances from level 3 to level 4, they gain the following increases in their abilities:
+
+- Open Locks: Increases from 35 to 40
+- Remove Traps: Increases from 30 to 35
+- Pick Pockets: Increases from 40 to 45
+- Move Silently: Increases from 35 to 40
+- Climb Walls: Increases from 82 to 83
+- Hide: Increases from 20 to 25
+- Listen: Increases from 38 to 42
+
+Each of these ability scores is enhanced by a consistent increment of 5 points, except for Climb Walls, which increases by 1.",YES
+Describe a situation where a GM might apply a bonus to a Thief's ability score.,"In a typical gameplay scenario, a Dungeon Master (GM) might apply a bonus to a Thief's ability score when the circumstances are particularly advantageous or favor the Thief's skills. Here is an example situation:
+
+Imagine a Thief character attempting to pick the lock of a door with a highly familiar and simplistic mechanism. The Thief has extensive practice or specific knowledge about this type of lock due to previous encounters. In this case, the GM might determine that the Thief's proficiency or familiarity with the lock warrants a bonus to their roll. 
+
+For instance, if the lock is of a type that the Thief has frequently encountered and successfully picked in past adventures, the GM might grant a bonus of +10% to the Thief's ""Open Locks"" ability score, acknowledging the Thief's expertise in dealing with similar locks. This bonus reflects the increased likelihood of successfully picking the lock due to the Thief's experience and skill. 
+
+On the contrary, any tougher conditions like being under time pressure or dealing with a magically concealed lock might deter bonuses or rather, introduce penalties. This dynamic enforces the influence of situational context in the game.",YES
