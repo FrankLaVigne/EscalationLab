@@ -9,8 +9,6 @@ __pycache__/
 # Models (too large for git)
 models/
 
-# Large PDFs (3rd Edition variants, 150MB+)
-docs/3rdEdition/
 
 # ChromaDB local store
 chroma_db/
